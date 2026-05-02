@@ -36,7 +36,7 @@ except ImportError:
 
 # -------------------- 全局常量 --------------------
 VERSION = "4.0"  # 当前版本号
-UPDATE_URL = "https://raw.githubusercontent.com/yourrepo/version.json"  # 更新检测地址（可自行修改）
+UPDATE_URL = "https://raw.githubusercontent.com/qeqdr416/random_name/refs/heads/main/version.json"  # 更新检测地址（可自行修改）
 
 NAME_LIST = [
     "陈柏林", "陈楚轩", "陈秀瑶", "冯锦怡", "郭雨娴", "何家添", "何洛明", "何泳霖", "何子轩",
